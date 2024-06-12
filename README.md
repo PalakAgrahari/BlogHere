@@ -1,4 +1,4 @@
-BlogHere
+
 BlogHere is your ultimate platform for sharing insights, stories, and expertise with a global audience. Our web application is built with a modern tech stack, ensuring a seamless and engaging user experience.
 
 Tech Stack
