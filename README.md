@@ -22,10 +22,11 @@ Home Page -
 
 DashBoard - 
 
-![image](https://github.com/user-attachments/assets/d189c624-df90-4f53-90d7-b14fc771508c)
+![image](https://github.com/user-attachments/assets/d9ed39e7-fbe6-4d4b-9cbf-47313ef03a5c)
 
 
-Chart Feature - 
+
+Chart Feature - The chart visualizes the number of published and not published blogs. A donut chart is used to represent the data.Users can hover over the chart segments to see details such as the count of published and not published blogs
 
 ![image](https://github.com/user-attachments/assets/93c5eee2-2870-4f30-8e70-10b9b7d55c98)
 
