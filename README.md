@@ -15,6 +15,8 @@ Features
  - Interactive Charts: Visualize user statistics with interactive charts that provide data-driven insights.
  - Commenting System: Engage with your readers through a robust commenting system.
  - Tagging and Categorization: Organize your content with tags and categories for easy navigation.
+ - Author Accounts - Authors can manage their profiles, view their posts, and track blog performance through analytics.
+ - Reader Accounts - Readers can create accounts to comment and interact with authors
 
 Home Page - 
 
